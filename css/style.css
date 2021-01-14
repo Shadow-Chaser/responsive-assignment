@@ -1,0 +1,18 @@
+.b-radius{
+    border-radius: 0.8em;
+}
+.bg-gray{
+    background-color:#F1F1F1;
+}
+
+.image-area{
+    height: 327px;
+}
+.my-btn{
+    padding: 0.5em 1em 0.5em 1em;
+    background-color: white
+    border: 0;
+    border-radius: 0.7em;
+    margin-top: 5px;
+}
+
