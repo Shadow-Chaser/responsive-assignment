@@ -1,2 +1,2 @@
 # responsive-assignment
-![Live Site!](https://shadow-chaser.github.io/responsive-assignment/index.html)
+[Live Site!](https://shadow-chaser.github.io/responsive-assignment/index.html)
